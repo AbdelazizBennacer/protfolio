@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2C2D2F;
+}
+
+h2 {
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
+
+a span {
+    color: #00A3E1;
+    text-transform: uppercase;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+a i {
+    transition: color .3s;
+    font-size: 12px;
+}
+
+a:hover i {
+    color: #00A3E1;
+}
